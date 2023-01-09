@@ -1,0 +1,27 @@
+body{
+    font-family: Arial sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 1200px;
+    border: grey solid 2px ;
+    margin: auto;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.inner-container{
+    width: 30%;
+    border: grey solid 2px;
+    box-shadow: 2px 2px 7px 1px grey;
+    padding: 10px;
+    margin: 8px 5px;
+
+}

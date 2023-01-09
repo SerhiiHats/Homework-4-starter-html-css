@@ -1,0 +1,39 @@
+.container{
+    width: 1200px;
+    padding: 15px 20px 30px 20px;
+    background: lightgrey;
+    display: flex;
+    margin: auto;
+    flex-direction: column-reverse;
+}
+
+.article{
+border-bottom: black 1px solid;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+span{
+    padding: 0 0 10px 0;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: 'Chivo Mono', monospace;
+
+}
+
+a{
+    font-family: 'Chivo Mono', monospace;
+    color: blue;
+    font-size: 21px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+a:hover{
+        text-shadow: 0 0 3px blue,
+       0 0 7px aqua;
+
+
+
+}

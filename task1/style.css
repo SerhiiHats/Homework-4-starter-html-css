@@ -1,0 +1,19 @@
+body{
+    font-family: Arial sans-serif;
+}
+
+.container-title{
+    height: 150px;
+    background: lightgrey;
+    display: flex;
+    align-items: center;
+}
+
+.main-title{
+    margin: auto 80px auto 40px;
+}
+
+.content-with-main-title{
+    /*width: 60%;*/
+    margin: auto 40px auto 80px;
+}

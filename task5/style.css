@@ -1,0 +1,34 @@
+.container-social-menu {
+    width: 800px;
+    height: 150px;
+    background: slategray;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 27px;
+    margin: auto;
+}
+
+.container-icons {
+    width: 52px;
+    height: 52px;
+    border-radius: 25px;
+    background: white;
+    display: flex;
+    /*margin: auto;*/
+}
+.container-icons:hover{
+    background: lightgrey;
+    /*background: lightblue;*/
+    /*background: lightskyblue;*/
+}
+
+.container-icons-empti{
+    width: 30px;
+    height: 30px;
+
+}

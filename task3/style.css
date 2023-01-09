@@ -1,0 +1,36 @@
+body{
+    /*font-family: 'Chivo Mono', monospace;*/
+    font-family: 'Poppins', sans-serif;
+}
+
+.container-menu{
+    height: 100px;
+    background: black;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 35px 10px;
+
+}
+
+a:hover{
+    background: dimgray;
+}
+
+#one{
+    padding: 35px 25px;
+}
+
+#two{
+    padding: 35px 43px;
+}
+
+#three{
+    padding: 35px 38px;
+}
